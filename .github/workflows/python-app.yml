@@ -37,4 +37,4 @@ jobs:
     - name: Test with pytest
       run: |
         python linear_regression_1.py
-        python ploynomial_regression.py
+        python polynomial_regression.py
